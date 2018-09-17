@@ -1,0 +1,49 @@
+@import '~bootstrap/scss/bootstrap.scss';
+
+
+.mainPhoto{
+    font-family: 'Quicksand', sans-serif;
+    font-size: 80px;
+    color: yellow;
+    display: block;
+    margin-left: auto;
+    margin-right: auto;
+    margin-bottom: 20px;
+    width: 100%;
+    height: 300px;
+    background-image: url("https://images.pexels.com/photos/791763/pexels-photo-791763.jpeg?auto=compress&cs=tinysrgb&h=350")
+}
+
+.choose{
+    font-family: 'Quicksand', sans-serif;
+    color: #cc5157;
+    font-size: 34px;
+}
+
+.container{
+    height: 400px;
+    width: 400px;
+}
+
+.wodDisplay{
+    
+    font-size: 14px;
+    display: inline-block;
+    width: 300px;
+    // margin-left: 200px;
+    margin-bottom: 30px;
+    margin-top: 15px;
+}
+
+
+/* 
+
+    You can write your own styles here...
+    
+    
+    ...Or you can use the import command to include 
+    other sylesheets into your bunde as well, e.j:
+    
+    import 'relative/path/to/stylesheet.scss';
+
+*/
