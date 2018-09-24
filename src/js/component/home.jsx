@@ -10,7 +10,8 @@ export class Home extends React.Component{
         return (
             <div className="text-center mt-5">
                 <div className="container">
-                    <p className="mainPhoto">Wod Creator</p>
+                    <p className="mainPhoto">Wod <span className="x">X</span></p>
+                    
                 </div>
                 <p className="choose">Choose a Movement</p>
                 

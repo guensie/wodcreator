@@ -2,21 +2,21 @@
 
 
 .mainPhoto{
-    font-family: 'Quicksand', sans-serif;
-    font-size: 80px;
-    color: yellow;
+    font-family: 'Nothing You Could Do', cursive;
+    font-size: 130px;
+    color: white;
     display: block;
     margin-left: auto;
     margin-right: auto;
     margin-bottom: 20px;
     width: 100%;
-    height: 300px;
+    height: 250px;
     background-image: url("https://images.pexels.com/photos/791763/pexels-photo-791763.jpeg?auto=compress&cs=tinysrgb&h=350")
 }
 
 .choose{
     font-family: 'Quicksand', sans-serif;
-    color: #cc5157;
+    color: red;
     font-size: 34px;
 }
 
@@ -34,7 +34,16 @@
     margin-bottom: 30px;
     margin-top: 15px;
 }
+.container{
+    height: 300px;
+}
 
+.x{
+    color: red;
+}
+.btn{
+    color: white;
+}
 
 /* 
 
